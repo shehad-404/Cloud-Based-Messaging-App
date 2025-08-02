@@ -45,7 +45,7 @@ A one-to-one realtime chat app.
 ### Account Creation page
 ![](/screenshot/logout-page.png)
 
-### Chat page
+### Real-time Communication
 ![](/screenshot/message.png)
 
 ## Running Application Locally
