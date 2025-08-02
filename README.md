@@ -2,6 +2,11 @@
 
 A one-to-one realtime chat app. 
 
+# System Architecture
+<img width="1348" height="898" alt="image" src="https://github.com/user-attachments/assets/a329c4b8-6f21-418e-863c-2b9b4a7d3e89" />
+
+
+
 # Technologies
 - React
 - MaterialUI
@@ -19,6 +24,7 @@ A one-to-one realtime chat app.
 - Login/Registration system
 - Notification system
 - Search user
+
 
 # Screenshots
 
