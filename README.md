@@ -2,20 +2,19 @@
 
 A one-to-one realtime chat app. 
 
-# System Architecture
-<img width="1348" height="898" alt="image" src="https://github.com/user-attachments/assets/a329c4b8-6f21-418e-863c-2b9b4a7d3e89" />
-
-
-
 # Technologies
+## Frontend
 - React
 - MaterialUI
-- SocketIO
 - Redux
-- NodeJS
-- Postgres
-- Docker 
-  
+## Backend
+- Node.js
+- Socket.IO
+- PostgreSQL
+## Deployment & Infrastructure:
+- Docker
+- Cloud Hosting (AWS/GCP/Azure)
+
 # Functionalities
 - Authentification with CSRF protection and Session Cookie
 - Real time chat with SocketIO
@@ -25,15 +24,30 @@ A one-to-one realtime chat app.
 - Notification system
 - Search user
 
+# System Architecture
+<img width="1348" height="898" alt="image" src="https://github.com/user-attachments/assets/a329c4b8-6f21-418e-863c-2b9b4a7d3e89" />
+
+
+# Docker & Cloud Integration
+- Dockerized full-stack app
+- Cloud-agnostic deployment
+- Easy CI/CD integration
+- Environment consistency
+
+<img width="1215" height="535" alt="image" src="https://github.com/user-attachments/assets/b6cdd149-36ae-457c-ae69-ac25a8ec0426" />
+
 
 # Screenshots
 
 ### Login page
-![](/screenshot/login-page.png)
+<img width="1666" height="884" alt="image" src="https://github.com/user-attachments/assets/279a7ec1-fcde-465d-a60d-15ce8178a10b" />
+
 ### Account Creation page
 ![](/screenshot/logout-page.png)
+
 ### Chat page
 ![](/screenshot/message.png)
+
 ## Running Application Locally
 
 ### Requirement:
